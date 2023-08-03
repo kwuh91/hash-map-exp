@@ -1,0 +1,2 @@
+#define ok1 template <class KeyT, class DataT> [[maybe_unused]]
+#define ok2 template <class KeyType, class DataType, class Hash> [[maybe_unused]]
